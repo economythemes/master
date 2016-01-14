@@ -1,11 +1,12 @@
 {
-  "name": "Theme Two",
-  "description": "Theme Two, By Zach Becker",
-  "tags": [
-    "one column",
-    "header"
-  ],
-  "previews": [
-    "https://economythemes.github.io/assets/images/two.png"
-  ]
+    "name": "Theme Two",
+    "description": "Theme Two, By Zach Becker",
+    "tags": [
+        "one column",
+        "header",
+        "infinite scroll"
+    ],
+    "previews": [
+        "https://economythemes.github.io/assets/images/two.png"
+    ]
 }

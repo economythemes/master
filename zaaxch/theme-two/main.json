@@ -7,8 +7,5 @@
         "infinite scroll",
         "custom links"
     ],
-    "previews": [
-        "https://economythemes.github.io/assets/images/two.png",
-        "https://i.imgur.com/5d55TPA.jpg"
-    ]
+    "preview": "https://economythemes.github.io/assets/images/two.png"
 }
